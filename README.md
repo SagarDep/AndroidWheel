@@ -7,7 +7,7 @@
 ![image](https://github.com/iwhys/AndroidWheel/blob/master/screenshot/2.gif)
 
 ## Usage
-* Before use, you should improve the library into your project.
+* Before use, you should import the library into your project.
 * Add NumberPicker to your layout file you'd like to use.
 
 ## Thanks
