@@ -3,8 +3,8 @@ A simple, customizable wheel library based on NumberPicker.
 It's simple to use like the official widget NumberPicker, but you can custom many properties.
 
 ## Demo
-![image](https://github.com/iwhys/AndroidWheel/blob/master/screenshot/01.gif)
-![image](https://github.com/iwhys/AndroidWheel/blob/master/screenshot/02.gif)
+![image](https://github.com/iwhys/AndroidWheel/blob/master/screenshot/1.gif)
+![image](https://github.com/iwhys/AndroidWheel/blob/master/screenshot/2.gif)
 
 ## Usage
 Before use, you should improve the library into your project.
