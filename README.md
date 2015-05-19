@@ -1,6 +1,6 @@
 # AndroidWheel
 * A simple, customizable wheel library based on NumberPicker.
-* It's simple to use like the official widget NumberPicker, but you can custom many properties.
+* It's simple to use like the official widget NumberPicker, but you can custom many attributes.
 
 ## Demo
 ![image](https://github.com/iwhys/AndroidWheel/blob/master/screenshot/1.gif)
